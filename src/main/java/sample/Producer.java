@@ -5,10 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Teacher {
-    private String name;
+public class Producer {
+    private String firstName;
     private String surname;
-    private String email;
-    private String password;
-
 }
